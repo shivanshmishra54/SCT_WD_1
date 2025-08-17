@@ -14,7 +14,7 @@ The objective was to design and develop a **responsive landing page**, which I e
 
 ## 🚀 Live Preview
 
-🌐 [Click here to view the website](https://shivanshmishra.netlify.app/)
+🌐 [Click here to view the website]( https://shivanshmishra54.github.io/SCT_WD_1/)
 ---
 
 ## 🛠️ Tech Stack
